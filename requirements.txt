@@ -4,5 +4,10 @@ function
 argparse
 
 flask
+dotenv
 line-bot-sdk
 PyTelegramBotAPI
+
+openai==0.28
+python-dotenv==1.0.0
+
