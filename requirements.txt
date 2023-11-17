@@ -1,6 +1,8 @@
+os
+sys
+function
+argparse
+
 flask
 line-bot-sdk
 PyTelegramBotAPI
-uvicorn
-gunicorn
-
